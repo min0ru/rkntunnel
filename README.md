@@ -3,7 +3,9 @@
 Usage:
 
 sudo apt install ipset redsocks
+
 sudo systemctl enable redsocks
+
 sudo systemctl start redsocks
 
 echo "Host rkntunnel\nHostName: ssh_server_addr\nPort ssh_server_port\n" >>
