@@ -8,15 +8,23 @@ sudo iptables -t nat -A REDSOCKS -p tcp -j REDIRECT --to-ports 12345
 
 echo "Initializing ipset"
 sudo ipset destroy rkn
-sudo ipset create rkn hash:net maxelem 20000000
-sudo ipset flush rkn
+#sudo ipset create rkn hash:net maxelem 20000000
+#sudo ipset flush rkn
+
+echo "create rkn hash:net family inet hashsize 16384 maxelem 20000000" > /tmp/rkn.ipset
 
 echo "Downloading banned ip list"
-for ip in $(wget https://reestr.rublacklist.net/api/v2/ips/csv -q -O - | sed '/:/d' - | tr "," " ")
-do
-    >&2 echo -n ". "
-	sudo ipset -A rkn ${ip}
-done
+wget https://reestr.rublacklist.net/api/v2/ips/csv -q -O - | sed '/:/d' - | tr "," " " | sed 's/^/add rkn /' - >> /tmp/rkn.ipset
+#for ip in $(wget https://reestr.rublacklist.net/api/v2/ips/csv -q -O - | sed '/:/d' - | tr "," " ")
+#do
+#    >&2 echo -n ". "
+#	sudo ipset -A rkn ${ip}
+#done
+
+echo "Loading ipset"
+sudo ipset restore -f /tmp/rkn.ipset
+
+echo "Total ipset ip address number: `sudo ipset list rkn | wc -l`"
 
 echo "Adding insane subnet list"
 cat blocked_subnets | while read subnet
