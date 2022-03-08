@@ -1,10 +1,10 @@
 echo.msk.ru
-tvrain.ru
-www.the-village.ru
-novayagazeta.ru
-www.bbc.com
-www.themoscowtimes.com
-ru.interfax.com.ua
 interfax.com.ua
+novayagazeta.ru
 republic.ru
+ru.interfax.com.ua
+tvrain.ru
+www.bbc.com
+www.the-village.ru
+www.themoscowtimes.com
 zona.media
