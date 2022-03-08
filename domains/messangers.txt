@@ -1,0 +1,13 @@
+t.me
+telegram.org
+telegram.me
+web.telegram.org
+whatsapp.com
+whatsapp.net
+web.whatsapp.com
+g.whatsapp.net
+signal.org
+api.backup.signal.org
+backup.signal.org
+chat.signal.org
+updates.signal.org
