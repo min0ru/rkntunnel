@@ -1,39 +1,36 @@
 #!/bin/bash
 
-autossh rkntunnel-tor -D 1080 -fN
+sudo ipset destroy vpn
 
-echo "Initializing iptables"
-sudo iptables -t nat -N REDSOCKS
-sudo iptables -t nat -A REDSOCKS -p tcp -j REDIRECT --to-ports 12345
+echo "create vpn hash:net family inet hashsize 16384 maxelem 20000000" > /tmp/vpn.ipset
 
-echo "Initializing ipset"
-sudo ipset destroy rkn
-#sudo ipset create rkn hash:net maxelem 20000000
-#sudo ipset flush rkn
-
-echo "create rkn hash:net family inet hashsize 16384 maxelem 20000000" > /tmp/rkn.ipset
+echo "Downloading antifilter list"
+wget https://antifilter.download/list/allyouneed.lst -O /tmp/antifilter-allyouneed.lst
 
 echo "Downloading banned ip list"
-wget https://reestr.rublacklist.net/api/v2/ips/csv -q -O - | sed '/:/d' - | tr "," " " | sed 's/^/add rkn /' - >> /tmp/rkn.ipset
-#for ip in $(wget https://reestr.rublacklist.net/api/v2/ips/csv -q -O - | sed '/:/d' - | tr "," " ")
-#do
-#    >&2 echo -n ". "
-#	sudo ipset -A rkn ${ip}
-#done
+#wget https://reestr.rublacklist.net/api/v2/ips/csv -q -O - | sed '/:/d' - | tr "," " " | tr -d " " | sort -u > /tmp/rublacklist.txt 
+#echo "" >> /tmp/rublacklist.txt
+
+echo "Downloading zapret-info ip list"
+#wget https://github.com/zapret-info/z-i/raw/master/dump.csv -q -O - | tail -n +2 | cut -f1 -d ";" - | tr "| " "\n" | grep '\.' | sort -u > /tmp/zapret.txt
+
+echo "Downloading domain list"
+#wget https://github.com/zapret-info/z-i/raw/master/nxdomain.txt -q -O /tmp/zapret-domains.txt
+
+echo "Downloading tor enter points list"
+wget https://check.torproject.org/torbulkexitlist -q -O /tmp/tor-ips.txt
+
+echo "Resolving custom domains"
+cat domains/* | xargs dig +short | sort -u | xargs dig +short | sort -u | xargs dig +short | sort -u | xargs dig +short | sort -u | xargs dig +short | sort -u |  xargs dig +short | sort -u > /tmp/custom-ips.txt
+
+echo "Creating combined ip list"
+#cat /tmp/rublacklist.txt /tmp/zapret.txt /tmp/tor-ips.txt /tmp/custom-ips.txt | sed '/^[[:space:]]*$/d' | sort -u | sed 's/^/add vpn /' >> /tmp/vpn.ipset
+cat /tmp/antifilter-allyouneed.lst /tmp/tor-ips.txt /tmp/custom-ips.txt | sed '/^[[:space:]]*$/d' | sort -u | sed 's/^/add vpn /' >> /tmp/vpn.ipset
 
 echo "Loading ipset"
-sudo ipset restore -f /tmp/rkn.ipset
+sudo ipset restore -f /tmp/vpn.ipset
 
-echo "Total ipset ip address number: `sudo ipset list rkn | wc -l`"
+echo "Total ipset ip address number: `sudo ipset list vpn | wc -l`"
 
-echo "Adding insane subnet list"
-cat blocked_subnets | while read subnet
-do
-    echo "Subnet from subnet_list: $subnet"
-    sudo ipset add rkn ${subnet}
-done
-
-echo "Enabling iptables rule"
-sudo iptables -t nat -A OUTPUT -p tcp -m set --match-set rkn dst -j REDSOCKS
-
-echo "Done! Fuck RKN!"
+sudo iptables -t mangle -A PREROUTING -m set --match-set vpn dst -j MARK --set-mark 51820
+sudo iptables -t mangle -A OUTPUT -m set --match-set vpn dst -j MARK --set-mark 51820
