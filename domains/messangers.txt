@@ -12,6 +12,7 @@ core.telegram.org
 crashlogs.whatsapp.net
 data.signalayer.com
 dit.whatsapp.net
+dit.whatsapp.net.lan
 e12.whatsapp.net
 exad.stat.media
 g.whatsapp.net
@@ -48,6 +49,7 @@ signaler-pa.clients6.google.com
 signaler-pa.googleapis.com
 signaler-pa.youtube.com
 stat.media
+stat.media.lan
 static.whatsapp.net
 storage.signal.org
 support.meduza.io
