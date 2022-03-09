@@ -21,7 +21,13 @@ echo "Downloading tor enter points list"
 wget https://check.torproject.org/torbulkexitlist -q -O /tmp/tor-ips.txt
 
 echo "Resolving custom domains"
-cat domains/* | xargs dig +short | sort -u | xargs dig +short | sort -u | xargs dig +short | sort -u | xargs dig +short | sort -u | xargs dig +short | sort -u |  xargs dig +short | sort -u > /tmp/custom-ips.txt
+cat domains/* | xargs -P16 dig +short | sort -u \
+    | xargs -P16 dig +short | sort -u \
+    | xargs -P16 dig +short | sort -u \
+    | xargs -P16 dig +short | sort -u \
+    | xargs -P16 dig +short | sort -u \
+    | xargs -P16 dig +short | sort -u \
+    > /tmp/custom-ips.txt
 
 echo "Creating combined ip list"
 #cat /tmp/rublacklist.txt /tmp/zapret.txt /tmp/tor-ips.txt /tmp/custom-ips.txt | sed '/^[[:space:]]*$/d' | sort -u | sed 's/^/add vpn /' >> /tmp/vpn.ipset
