@@ -3,6 +3,7 @@ api.whatsapp.com
 backup.signal.org
 cdn-client.medium.com
 cdn.onesignal.com
+cdn.onesignal.com.lan
 cdn.signalayer.com
 cdn.teleport.media
 cdn4.telegram-cdn.org
@@ -11,12 +12,14 @@ chat.signal.org
 core.telegram.org
 crashlogs.whatsapp.net
 data.signalayer.com
+diletant.media
 dit.whatsapp.net
 dit.whatsapp.net.lan
 e12.whatsapp.net
 exad.stat.media
 g.whatsapp.net
 g.whatsapp.net.lan
+jsonlint.memberful.com
 kws1-1.web.telegram.org
 kws1.web.telegram.org
 kws2-1.web.telegram.org
@@ -35,6 +38,7 @@ media-arn2-2.cdn.whatsapp.net
 media-frt3-1.cdn.whatsapp.net
 media-frx5-1.cdn.whatsapp.net
 media-frx5-2.cdn.whatsapp.net
+media-hel3-1.cdn.whatsapp.net
 media.fbeg10-1.fna.whatsapp.net
 mmg.whatsapp.net
 mmx-ds.cdn.whatsapp.net
@@ -43,6 +47,7 @@ pluto-1.web.telegram.org
 pp.signalayer.com
 pps.whatsapp.net
 pps.whatsapp.net.lan
+shop.diletant.media
 signal.org
 signalayer.com
 signaler-pa.clients6.google.com
@@ -58,6 +63,7 @@ t.me
 t.signalayer.com
 telegram-cdn.org
 telegram.com
+telegram.im
 telegram.me
 telegram.org
 teleport.media
