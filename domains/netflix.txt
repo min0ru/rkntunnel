@@ -1,3 +1,5 @@
+198.38.114.0/24
+198.38.115.0/24
 android-sharded.prod.ftl.netflix.com
 android.prod.cloud.netflix.com
 android.prod.ftl.netflix.com
@@ -157,5 +159,3 @@ uiboot.netflix.com
 www.dradis.netflix.com
 www.eu-west-1.internal.dradis.netflix.com
 www.netflix.com
-198.38.114.0/24
-198.38.115.0/24
