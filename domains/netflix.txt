@@ -13,6 +13,7 @@ ichnaea.netflix.com
 ios-sharded.prod.ftl.netflix.com
 ios.ngp.prod.cloud.netflix.com
 ios.prod.cloud.netflix.com
+ios.prod.cloud.netflix.com.lan
 ios.prod.dradis.netflix.com
 ios.prod.eu-west-1.internal.dradis.netflix.com
 ios.prod.ftl.netflix.com
@@ -37,6 +38,7 @@ ipv4-c112-fra002-ix.1.oca.nflxvideo.net
 ipv4-c115-fra002-ix.1.oca.nflxvideo.net
 ipv4-c120-fra002-ix.1.oca.nflxvideo.net
 ipv4-c121-ams001-ix.1.oca.nflxvideo.net
+ipv4-c122-ams001-ix.1.oca.nflxvideo.net
 ipv4-c123-ams001-ix.1.oca.nflxvideo.net
 ipv4-c127-ams001-ix.1.oca.nflxvideo.net
 ipv4-c128-ams001-ix.1.oca.nflxvideo.net
@@ -47,6 +49,7 @@ ipv4-c133-ams001-ix.1.oca.nflxvideo.net
 ipv4-c134-ams001-ix.1.oca.nflxvideo.net
 ipv4-c136-ams001-ix.1.oca.nflxvideo.net
 ipv4-c137-ams001-ix.1.oca.nflxvideo.net
+ipv4-c139-ams001-ix.1.oca.nflxvideo.net
 ipv4-c140-ams001-ix.1.oca.nflxvideo.net
 ipv4-c142-fra002-ix.1.oca.nflxvideo.net
 ipv4-c144-ams001-ix.1.oca.nflxvideo.net
@@ -62,6 +65,7 @@ ipv4-c148-ams001-ix.1.oca.nflxvideo.net
 ipv4-c148-fra002-ix.1.oca.nflxvideo.net
 ipv4-c149-ams001-ix.1.oca.nflxvideo.net
 ipv4-c149-fra002-ix.1.oca.nflxvideo.net
+ipv4-c150-ams001-ix.1.oca.nflxvideo.net
 ipv4-c151-ams001-ix.1.oca.nflxvideo.net
 ipv4-c151-fra002-ix.1.oca.nflxvideo.net
 ipv4-c152-fra002-ix.1.oca.nflxvideo.net
@@ -83,6 +87,7 @@ ipv4-c166-ams001-ix.1.oca.nflxvideo.net
 ipv4-c167-ams001-ix.1.oca.nflxvideo.net
 ipv4-c168-ams001-ix.1.oca.nflxvideo.net
 ipv4-c169-ams001-ix.1.oca.nflxvideo.net
+ipv4-c170-ams001-ix.1.oca.nflxvideo.net
 ipv4-c172-ams001-ix.1.oca.nflxvideo.net
 ipv4-c173-ams001-ix.1.oca.nflxvideo.net
 ipv4-c174-ams001-ix.1.oca.nflxvideo.net
@@ -128,6 +133,7 @@ nfrt-mobile-direct6.prod.ftl.netflix.com
 nfrt-mobile-nlb.prod.ftl.netflix.com
 nfrt-nrdp-direct.prod.ftl.netflix.com
 nfrt-nrdp-nlb.prod.ftl.netflix.com
+nrdp-ixanycast.ftl.netflix.com
 nrdp-sharded.prod.ftl.netflix.com
 nrdp.prod.cloud.netflix.com
 nrdp.prod.ftl.netflix.com
@@ -143,9 +149,13 @@ probe-cell9.prod.ftl.netflix.com
 probe-ixanycast-isp.prod.ftl.netflix.com
 probe-ixunicast.prod.ftl.netflix.com
 probe.prod.ftl.netflix.com
+prod.http1.dradis.netflix.com
+prod.http1.eu-west-1.internal.dradis.netflix.com
 push.prod.netflix.com
 secure.netflix.com
 uiboot.netflix.com
 www.dradis.netflix.com
 www.eu-west-1.internal.dradis.netflix.com
 www.netflix.com
+198.38.114.0/24
+198.38.115.0/24
