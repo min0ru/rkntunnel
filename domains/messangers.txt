@@ -6,7 +6,10 @@ cdn.onesignal.com
 cdn.onesignal.com.lan
 cdn.signalayer.com
 cdn.teleport.media
+cdn0.telegram-cdn.org
+cdn1.telegram-cdn.org
 cdn4.telegram-cdn.org
+cdn5.telegram-cdn.org
 chat.cdn.whatsapp.net
 chat.signal.org
 core.telegram.org
