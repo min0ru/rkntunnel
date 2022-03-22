@@ -48,9 +48,11 @@ ipv4-c127-ams001-ix.1.oca.nflxvideo.net
 ipv4-c128-ams001-ix.1.oca.nflxvideo.net
 ipv4-c129-ams001-ix.1.oca.nflxvideo.net
 ipv4-c130-ams001-ix.1.oca.nflxvideo.net
+ipv4-c131-ams001-ix.1.oca.nflxvideo.net
 ipv4-c132-fra002-ix.ftl.nflxvideo.net
 ipv4-c133-ams001-ix.1.oca.nflxvideo.net
 ipv4-c134-ams001-ix.1.oca.nflxvideo.net
+ipv4-c135-ams001-ix.1.oca.nflxvideo.net
 ipv4-c136-ams001-ix.1.oca.nflxvideo.net
 ipv4-c137-ams001-ix.1.oca.nflxvideo.net
 ipv4-c139-ams001-ix.1.oca.nflxvideo.net
@@ -72,6 +74,7 @@ ipv4-c149-fra002-ix.1.oca.nflxvideo.net
 ipv4-c150-ams001-ix.1.oca.nflxvideo.net
 ipv4-c151-ams001-ix.1.oca.nflxvideo.net
 ipv4-c151-fra002-ix.1.oca.nflxvideo.net
+ipv4-c152-ams001-ix.1.oca.nflxvideo.net
 ipv4-c152-fra002-ix.1.oca.nflxvideo.net
 ipv4-c153-ams001-ix.1.oca.nflxvideo.net
 ipv4-c154-lhr004-ix.ftl.nflxvideo.net
