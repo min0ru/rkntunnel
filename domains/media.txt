@@ -1,10 +1,16 @@
+bbc.com
 echo.msk.ru
 interfax.com.ua
+mdza.io
+meduza.io
 novayagazeta.ru
 republic.ru
 ru.interfax.com.ua
+the-village.ru
+themoscowtimes.com
 tvrain.ru
 www.bbc.com
 www.the-village.ru
 www.themoscowtimes.com
 zona.media
+tjournal.ru

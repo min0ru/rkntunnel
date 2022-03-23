@@ -1,4 +1,6 @@
 api.backup.signal.org
+api.onesignal.com
+api.onesignal.com.lan
 api.whatsapp.com
 backup.signal.org
 cdn-client.medium.com
@@ -8,8 +10,12 @@ cdn.signalayer.com
 cdn.teleport.media
 cdn0.telegram-cdn.org
 cdn1.telegram-cdn.org
+cdn2.telegram-cdn.org
+cdn3.telegram-cdn.org
 cdn4.telegram-cdn.org
 cdn5.telegram-cdn.org
+cdn6.telegram-cdn.org
+cdn7.telegram-cdn.org
 chat.cdn.whatsapp.net
 chat.signal.org
 core.telegram.org
