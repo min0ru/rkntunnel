@@ -1,2 +1,17 @@
 syncfusion.com
 www.syncfusion.com
+www.pluralsight.com
+pluralsight.com
+s1.pluralsight.com
+s2.pluralsight.com
+s3.pluralsight.com
+s4.pluralsight.com
+s5.pluralsight.com
+s6.pluralsight.com
+s7.pluralsight.com
+s8.pluralsight.com
+s9.pluralsight.com
+s10.pluralsight.com
+app.pluralsight.com
+www.msdmanuals.com
+msdmanuals.com

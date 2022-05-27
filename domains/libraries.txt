@@ -1,2 +1,4 @@
 flibusta.is
 flibusta.club
+flibusta.site
+flibusta.lib
