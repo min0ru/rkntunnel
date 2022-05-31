@@ -15,5 +15,5 @@ s10.pluralsight.com
 app.pluralsight.com
 www.msdmanuals.com
 msdmanuals.com
-sincfusion.com
-www.sincfusion.com
+syncfusion.com
+www.syncfusion.com
