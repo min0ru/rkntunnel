@@ -10,3 +10,6 @@ yt7.ggpht.com
 yt8.ggpht.com
 yt9.ggpht.com
 yt10.ggpht.com
+photos-ugc.l.googleusercontent.com
+l.googleusercontent.com
+i.ytimg.com

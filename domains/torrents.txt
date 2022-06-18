@@ -10,3 +10,8 @@ bt6.t-ru.org
 bt7.t-ru.org
 bt8.t-ru.org
 bt9.t-ru.org
+pb.wtf
+www.pb.wtf
+piratbit.fun
+lazy.piratbit.fun
+plazy.piratbit.fun

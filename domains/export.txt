@@ -17,3 +17,5 @@ www.msdmanuals.com
 msdmanuals.com
 syncfusion.com
 www.syncfusion.com
+canva.com
+www.canva.com
