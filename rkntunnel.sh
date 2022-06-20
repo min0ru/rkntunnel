@@ -38,6 +38,15 @@ cat domains/* | xargs -P16 dig @8.8.8.8 +short | sort -u \
     | xargs -P16 dig @8.8.8.8 +short | sort -u \
     >> /tmp/custom-ips.txt
 
+echo "Resolving custom domains second time with cloudflare DNS"
+cat domains/* | xargs -P16 dig @1.1.1.1 +short | sort -u \
+    | xargs -P16 dig @1.1.1.1 +short | sort -u \
+    | xargs -P16 dig @1.1.1.1 +short | sort -u \
+    | xargs -P16 dig @1.1.1.1 +short | sort -u \
+    | xargs -P16 dig @1.1.1.1 +short | sort -u \
+    | xargs -P16 dig @1.1.1.1 +short | sort -u \
+    >> /tmp/custom-ips.txt
+
 echo "Resolving custom domains third time with yandex DNS"
 cat domains/* | xargs -P16 dig @77.88.8.1 +short | sort -u \
     | xargs -P16 dig @77.88.8.1 +short | sort -u \
@@ -48,7 +57,7 @@ cat domains/* | xargs -P16 dig @77.88.8.1 +short | sort -u \
     >> /tmp/custom-ips.txt
 
 echo "Ckleaning custom ips from duplicates"
-cat /tmp/custom-ips.txt | sort -u > /tmp/custom-ips.txt
+sort -u /tmp/custom-ips.txt -o /tmp/custom-ips.txt
 
 echo "Creating combined ip list"
 #cat /tmp/rublacklist.txt /tmp/zapret.txt /tmp/tor-ips.txt /tmp/custom-ips.txt | sed '/^[[:space:]]*$/d' | sort -u | sed 's/^/add vpn /' >> /tmp/vpn.ipset
