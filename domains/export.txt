@@ -21,3 +21,6 @@ canva.com
 www.canva.com
 www.ibm.com
 ibm.com
+login.ibm.com
+www-api.ibm.com
+cloud.ibm.com
