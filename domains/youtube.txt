@@ -1,6 +1,11 @@
 ggpht.com
+i.ytimg.com
+l.googleusercontent.com
+photos-ugc.l.googleusercontent.com
+play.google.com
 yt.ggpht.com
 yt1.ggpht.com
+yt10.ggpht.com
 yt2.ggpht.com
 yt3.ggpht.com
 yt4.ggpht.com
@@ -9,8 +14,3 @@ yt6.ggpht.com
 yt7.ggpht.com
 yt8.ggpht.com
 yt9.ggpht.com
-yt10.ggpht.com
-photos-ugc.l.googleusercontent.com
-l.googleusercontent.com
-i.ytimg.com
-play.google.com
