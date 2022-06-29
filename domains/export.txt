@@ -22,3 +22,6 @@ www.ibm.com
 www.msdmanuals.com
 www.pluralsight.com
 www.syncfusion.com
+splunk.com
+www.splunk.com
+embargo.splunk.com
