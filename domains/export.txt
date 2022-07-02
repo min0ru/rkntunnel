@@ -1,6 +1,7 @@
 app.pluralsight.com
 canva.com
 cloud.ibm.com
+embargo.splunk.com
 ibm.com
 login.ibm.com
 msdmanuals.com
@@ -15,13 +16,12 @@ s6.pluralsight.com
 s7.pluralsight.com
 s8.pluralsight.com
 s9.pluralsight.com
+splunk.com
 syncfusion.com
 www-api.ibm.com
 www.canva.com
 www.ibm.com
 www.msdmanuals.com
 www.pluralsight.com
-www.syncfusion.com
-splunk.com
 www.splunk.com
-embargo.splunk.com
+www.syncfusion.com

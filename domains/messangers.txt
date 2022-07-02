@@ -119,6 +119,7 @@ web.telegram.org
 web.telegram.org.lan
 web.whatsapp.com
 web.whatsapp.com.lan
+weea4eaeb1-gmydgmrvhaztknbr.snr.whatsapp.net
 whatsapp.com
 whatsapp.net
 widget.me-talk.ru
