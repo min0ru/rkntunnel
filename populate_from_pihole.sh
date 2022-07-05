@@ -23,6 +23,11 @@ echo "select domain from domain_by_id where domain like '%licdn%'" | sqlite3 ~/p
 echo "select domain from domain_by_id where domain like '%facebook%'" | sqlite3 ~/pihole/etc-pihole/pihole-FTL.db >> domains/facebook.txt
 echo "select domain from domain_by_id where domain like '%fbcdn%'" | sqlite3 ~/pihole/etc-pihole/pihole-FTL.db >> domains/facebook.txt
 
+# youtube
+echo "select domain from domain_by_id where domain like '%ggpht%'" | sqlite3 ~/pihole/etc-pihole/pihole-FTL.db >> domains/youtube.txt
+echo "select domain from domain_by_id where domain like '%googleusercontent.com%'" | sqlite3 ~/pihole/etc-pihole/pihole-FTL.db >> domains/youtube.txt
+echo "select domain from domain_by_id where domain like '%ytimg.com%" | sqlite3 ~/pihole/etc-pihole/pihole-FTL.db >> domains/youtube.txt
+
 for filename in domains/*; do
     echo "Sorting and cleaning dupes in $filename"
     sort -u -o $filename $filename
