@@ -31,6 +31,7 @@ licdn.com
 linkedin.co
 linkedin.com
 media-exp1.licdn.com
+media-exp2.licdn.com
 media.licdn.com
 mix.linkedin.com
 ossgw.alicdn.com

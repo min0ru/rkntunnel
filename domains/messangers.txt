@@ -36,6 +36,7 @@ e12.whatsapp.net
 e15.whatsapp.net
 e2.whatsapp.net
 e3.whatsapp.net
+e5.whatsapp.net
 e6.whatsapp.net
 e8.whatsapp.net
 e9.whatsapp.net
@@ -60,6 +61,7 @@ kws4-1.web.telegram.org
 kws4-1.web.telegram.org.lan
 kws4.web.telegram.org
 kws5-1.web.telegram.org
+mainnet.mewwallet.dev
 media-ams2-1.cdn.whatsapp.net
 media-ams4-1.cdn.whatsapp.net
 media-amt2-1.cdn.whatsapp.net
