@@ -6,6 +6,7 @@ ibm.com
 login.ibm.com
 msdmanuals.com
 pluralsight.com
+refactoring.guru
 s1.pluralsight.com
 s10.pluralsight.com
 s2.pluralsight.com
@@ -23,5 +24,6 @@ www.canva.com
 www.ibm.com
 www.msdmanuals.com
 www.pluralsight.com
+www.refactoring.guru
 www.splunk.com
 www.syncfusion.com

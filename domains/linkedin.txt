@@ -10,6 +10,7 @@ assets.alicdn.com
 at.alicdn.com
 at.alicdn.com.danuoyi.alicdn.com
 cbu01.alicdn.com
+cn.alicdn.com
 dc.ads.linkedin.com
 dms.licdn.com
 dorangesource.alicdn.com

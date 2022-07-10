@@ -30,6 +30,7 @@ data.signalayer.com
 desktop.telegram.org
 diletant.media
 dit.whatsapp.net
+dit.whatsapp.net.getcacheddhcpresultsforcurrentconfig
 dit.whatsapp.net.lan
 e1.whatsapp.net
 e12.whatsapp.net
@@ -97,6 +98,7 @@ signalr.net
 sonar-ams.cdn.whatsapp.net
 sonar-amt.cdn.whatsapp.net
 stat.media
+stat.media.getcacheddhcpresultsforcurrentconfig
 stat.media.lan
 static.whatsapp.net
 storage.signal.org
@@ -133,3 +135,4 @@ zws1-1.web.telegram.org
 zws2-1.web.telegram.org
 zws2.web.telegram.org
 zws4-1.web.telegram.org
+zws5-1.web.telegram.org
