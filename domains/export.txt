@@ -3,6 +3,7 @@ canva.com
 cloud.ibm.com
 embargo.splunk.com
 ibm.com
+keyserver.ubuntu.com
 login.ibm.com
 msdmanuals.com
 pluralsight.com
