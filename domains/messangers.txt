@@ -42,7 +42,9 @@ e13.whatsapp.net
 e14.whatsapp.net
 e15.whatsapp.net
 e16.whatsapp.net
+e17.whatsapp.net
 e2.whatsapp.net
+e20.whatsapp.net
 e3.whatsapp.net
 e4.whatsapp.net
 e5.whatsapp.net

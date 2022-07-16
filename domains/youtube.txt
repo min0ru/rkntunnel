@@ -15,6 +15,7 @@ doc-04-7g-docs.googleusercontent.com
 doc-04-c8-docs.googleusercontent.com
 doc-08-c8-docs.googleusercontent.com
 doc-0c-8s-docstext.googleusercontent.com
+doc-0o-0k-docs.googleusercontent.com
 doc-0o-94-drive-data-export.googleusercontent.com
 doc-10-8s-docstext.googleusercontent.com
 doc-bc-04-drive-data-export.googleusercontent.com
