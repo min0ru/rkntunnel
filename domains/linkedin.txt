@@ -31,6 +31,7 @@ laz-g-cdn.alicdn.com
 licdn.com
 linkedin.co
 linkedin.com
+linkedinmobileapp.com
 media-exp1.licdn.com
 media-exp2.licdn.com
 media.licdn.com
@@ -62,6 +63,7 @@ wvcfg.alicdn.com
 wvcfg.alicdn.com.danuoyi.tbcache.com
 www-linkedin-com.l-0005.l-msedge.net
 www.linkedin.com
+www.linkedinmobileapp.com
 yqintl.alicdn.com
 yqintl.alicdn.com.danuoyi.alicdn.com
 zres.alicdn.com

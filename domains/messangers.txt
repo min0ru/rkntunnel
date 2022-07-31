@@ -26,6 +26,7 @@ chat.signal.org
 chocotelegram.ru
 core.telegram.org
 crashlogs.whatsapp.net
+ct.mediaboom.site
 data.signalayer.com
 desktop.telegram.org
 diletant.media
@@ -56,6 +57,7 @@ exad.stat.media
 faq.whatsapp.com
 g.whatsapp.net
 g.whatsapp.net.lan
+gateway.teleport.media
 getdesktop.telegram.org
 graph.whatsapp.net
 gtm-dus-idam-metrosystems-net.metro.info
@@ -81,7 +83,10 @@ media-amt2-1.cdn.whatsapp.net
 media-arn2-1.cdn.whatsapp.net
 media-arn2-1.cdn.whatsapp.net.lan
 media-arn2-2.cdn.whatsapp.net
+media-cdg2-1.cdn.whatsapp.net
+media-cdt1-1.cdn.whatsapp.net
 media-frt3-1.cdn.whatsapp.net
+media-frt3-2.cdn.whatsapp.net
 media-frx5-1.cdn.whatsapp.net
 media-frx5-2.cdn.whatsapp.net
 media-hel3-1.cdn.whatsapp.net
@@ -91,6 +96,7 @@ messenger.telegram.org
 mmg.whatsapp.net
 mmx-ds.cdn.whatsapp.net
 onesignal.com
+onesignal.com.lan
 osx.telegram.org
 pluto-1.web.telegram.org
 pp.signalayer.com
@@ -100,6 +106,7 @@ proekt.media
 scontent.whatsapp.net
 secure-content.meetupstatic.com
 shop.diletant.media
+signal-luke.teleport.media
 signal-prod-signal-prod-rel-euw-signalr-primary-3.service.signalr.net
 signal.org
 signalayer.com
@@ -112,6 +119,8 @@ sonar-amt.cdn.whatsapp.net
 stat.media
 stat.media.getcacheddhcpresultsforcurrentconfig
 stat.media.lan
+stat.teleport.media
+stat.teleport.media.lan
 static.whatsapp.net
 storage.signal.org
 support.meduza.io

@@ -205,6 +205,7 @@ ipv4-c176-ams001-ix.1.oca.nflxvideo.net
 ipv4-c177-ams001-ix.1.oca.nflxvideo.net
 ipv4-c179-ams001-ix.1.oca.nflxvideo.net
 ipv4-c180-ams001-ix.1.oca.nflxvideo.net
+ipv4-c182-ams001-ix.1.oca.nflxvideo.net
 ipv4-c183-ams001-ix.1.oca.nflxvideo.net
 ipv4-c184-ams001-ix.1.oca.nflxvideo.net
 ipv4-c185-ams001-ix.1.oca.nflxvideo.net
@@ -228,6 +229,7 @@ nfrt-mobile-direct6.prod.ftl.netflix.com
 nfrt-mobile-nlb.prod.ftl.netflix.com
 nfrt-nrdp-direct.prod.ftl.netflix.com
 nfrt-nrdp-nlb.prod.ftl.netflix.com
+nrdp-ipv6.prod.ftl.netflix.com
 nrdp-ixanycast.ftl.netflix.com
 nrdp-sharded.prod.ftl.netflix.com
 nrdp.nccp.netflix.com

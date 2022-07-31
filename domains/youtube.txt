@@ -29,6 +29,11 @@ googlehosted.l.googleusercontent.com
 googleusercontent.com
 gz0.googleusercontent.com
 i.ytimg.com
+i.ytimg.com.lan
+i1.ytimg.com
+i2.ytimg.com
+i4.ytimg.com
+i9.ytimg.com
 images-lso-opensocial.googleusercontent.com
 l.googleusercontent.com
 lh3.ggpht.com
@@ -46,9 +51,12 @@ photos-ugc.l.googleusercontent.com
 play-lh.googleusercontent.com
 play-lh.googleusercontent.com.lan
 play.google.com
+s.ytimg.com
+scholar.googleusercontent.com
 themes.googleusercontent.com
 themes.googleusercontent.com.lan
 webcache.googleusercontent.com
+wide-youtube.l.google.com
 www-kixmove-opensocial.googleusercontent.com
 www-ritzmove-opensocial.googleusercontent.com
 yt.ggpht.com
@@ -63,3 +71,4 @@ yt6.ggpht.com
 yt7.ggpht.com
 yt8.ggpht.com
 yt9.ggpht.com
+ytimg.com
