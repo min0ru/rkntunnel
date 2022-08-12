@@ -15,8 +15,13 @@ doc-04-7g-docs.googleusercontent.com
 doc-04-c8-docs.googleusercontent.com
 doc-08-c8-docs.googleusercontent.com
 doc-0c-8s-docstext.googleusercontent.com
+doc-0c-9g-docs.googleusercontent.com
+doc-0g-3s-docs.googleusercontent.com
+doc-0g-58-docs.googleusercontent.com
+doc-0g-9g-docs.googleusercontent.com
 doc-0o-0k-docs.googleusercontent.com
 doc-0o-94-drive-data-export.googleusercontent.com
+doc-10-58-docs.googleusercontent.com
 doc-10-8s-docstext.googleusercontent.com
 doc-bc-04-drive-data-export.googleusercontent.com
 drive-thirdparty.googleusercontent.com
@@ -32,6 +37,7 @@ i.ytimg.com
 i.ytimg.com.lan
 i1.ytimg.com
 i2.ytimg.com
+i3.ytimg.com
 i4.ytimg.com
 i9.ytimg.com
 images-lso-opensocial.googleusercontent.com

@@ -59,6 +59,7 @@ instagram.faep19-1.fna.fbcdn.net
 instagram.faep20-1.fna.fbcdn.net
 instagram.faep6-1.fna.fbcdn.net
 instagram.fagp3-1.fna.fbcdn.net
+instagram.fagr1-3.fna.fbcdn.net
 instagram.fagr2-1.fna.fbcdn.net
 instagram.faju20-1.fna.fbcdn.net
 instagram.faju21-1.fna.fbcdn.net
@@ -68,12 +69,14 @@ instagram.fala1-1.fna.fbcdn.net
 instagram.fala2-1.fna.fbcdn.net
 instagram.fala3-1.fna.fbcdn.net
 instagram.fala3-2.fna.fbcdn.net
+instagram.fala3-3.fna.fbcdn.net
 instagram.fala4-1.fna.fbcdn.net
 instagram.fala4-2.fna.fbcdn.net
 instagram.fala6-1.fna.fbcdn.net
 instagram.fala8-1.fna.fbcdn.net
 instagram.falg1-2.fna.fbcdn.net
 instagram.falg3-2.fna.fbcdn.net
+instagram.falg4-1.fna.fbcdn.net
 instagram.falg6-1.fna.fbcdn.net
 instagram.falg7-1.fna.fbcdn.net
 instagram.falg7-2.fna.fbcdn.net
@@ -102,6 +105,7 @@ instagram.fasr2-1.fna.fbcdn.net
 instagram.fath2-1.fna.fbcdn.net
 instagram.fath3-3.fna.fbcdn.net
 instagram.fath3-4.fna.fbcdn.net
+instagram.fath4-2.fna.fbcdn.net
 instagram.fath5-1.fna.fbcdn.net
 instagram.fath6-1.fna.fbcdn.net
 instagram.fath7-1.fna.fbcdn.net
@@ -141,6 +145,7 @@ instagram.fbgw43-1.fna.fbcdn.net
 instagram.fbgw55-2.fna.fbcdn.net
 instagram.fbgw58-1.fna.fbcdn.net
 instagram.fbgw6-2.fna.fbcdn.net
+instagram.fbhd1-1.fna.fbcdn.net
 instagram.fbho1-2.fna.fbcdn.net
 instagram.fbho2-1.fna.fbcdn.net
 instagram.fbho3-1.fna.fbcdn.net
@@ -171,21 +176,26 @@ instagram.fbom17-1.fna.fbcdn.net
 instagram.fbom19-3.fna.fbcdn.net
 instagram.fbom20-1.fna.fbcdn.net
 instagram.fbom22-1.fna.fbcdn.net
+instagram.fbom23-1.fna.fbcdn.net
 instagram.fbom26-1.fna.fbcdn.net
 instagram.fbom3-1.fna.fbcdn.net
 instagram.fbom35-1.fna.fbcdn.net
 instagram.fbom39-1.fna.fbcdn.net
 instagram.fbom42-1.fna.fbcdn.net
+instagram.fbom46-1.fna.fbcdn.net
 instagram.fbom5-1.fna.fbcdn.net
 instagram.fbpm3-1.fna.fbcdn.net
 instagram.fbqh1-1.fna.fbcdn.net
 instagram.fbqt1-1.fna.fbcdn.net
+instagram.fbri1-1.fna.fbcdn.net
 instagram.fbrs3-1.fna.fbcdn.net
 instagram.fbru2-1.fna.fbcdn.net
 instagram.fbru4-1.fna.fbcdn.net
 instagram.fbsa1-1.fna.fbcdn.net
+instagram.fbsr1-2.fna.fbcdn.net
 instagram.fbsr11-1.fna.fbcdn.net
 instagram.fbsr3-2.fna.fbcdn.net
+instagram.fbsr4-2.fna.fbcdn.net
 instagram.fbsr6-2.fna.fbcdn.net
 instagram.fbsr7-2.fna.fbcdn.net
 instagram.fbts4-1.fna.fbcdn.net
@@ -244,6 +254,7 @@ instagram.fcmn5-2.fna.fbcdn.net
 instagram.fcok10-2.fna.fbcdn.net
 instagram.fcok2-1.fna.fbcdn.net
 instagram.fcok3-1.fna.fbcdn.net
+instagram.fcph3-1.fna.fbcdn.net
 instagram.fcvt1-1.fna.fbcdn.net
 instagram.fcxl2-1.fna.fbcdn.net
 instagram.fczl2-2.fna.fbcdn.net
@@ -281,6 +292,7 @@ instagram.fdps3-1.fna.fbcdn.net
 instagram.fdtm2-2.fna.fbcdn.net
 instagram.fdub4-1.fna.fbcdn.net
 instagram.fdub5-1.fna.fbcdn.net
+instagram.fdyu2-1.fna.fbcdn.net
 instagram.fdyu3-1.fna.fbcdn.net
 instagram.fdyu4-1.fna.fbcdn.net
 instagram.febl2-1.fna.fbcdn.net
@@ -290,6 +302,7 @@ instagram.febl5-1.fna.fbcdn.net
 instagram.fecn3-1.fna.fbcdn.net
 instagram.fedi1-1.fna.fbcdn.net
 instagram.feml1-1.fna.fbcdn.net
+instagram.ferz3-1.fna.fbcdn.net
 instagram.fesb1-1.fna.fbcdn.net
 instagram.fesb1-2.fna.fbcdn.net
 instagram.fesb10-1.fna.fbcdn.net
@@ -335,6 +348,7 @@ instagram.ffru5-2.fna.fbcdn.net
 instagram.ffru7-1.fna.fbcdn.net
 instagram.fgau3-1.fna.fbcdn.net
 instagram.fgau3-2.fna.fbcdn.net
+instagram.fgau3-3.fna.fbcdn.net
 instagram.fgba1-1.fna.fbcdn.net
 instagram.fgbb2-1.fna.fbcdn.net
 instagram.fgbb2-2.fna.fbcdn.net
@@ -374,6 +388,7 @@ instagram.fhyd10-1.fna.fbcdn.net
 instagram.fhyd11-2.fna.fbcdn.net
 instagram.fidr1-1.fna.fbcdn.net
 instagram.fidr4-1.fna.fbcdn.net
+instagram.fiev13-1.fna.fbcdn.net
 instagram.fiev14-1.fna.fbcdn.net
 instagram.fiev17-1.fna.fbcdn.net
 instagram.fiev19-1.fna.fbcdn.net
@@ -386,6 +401,7 @@ instagram.fifo1-1.fna.fbcdn.net
 instagram.fisb4-2.fna.fbcdn.net
 instagram.fisb5-1.fna.fbcdn.net
 instagram.fisb5-2.fna.fbcdn.net
+instagram.fisb6-1.fna.fbcdn.net
 instagram.fist1-1.fna.fbcdn.net
 instagram.fist1-2.fna.fbcdn.net
 instagram.fist1-4.fna.fbcdn.net
@@ -403,8 +419,10 @@ instagram.fist7-1.fna.fbcdn.net
 instagram.fist7-2.fna.fbcdn.net
 instagram.fisu10-2.fna.fbcdn.net
 instagram.fisu6-2.fna.fbcdn.net
+instagram.fixb1-1.fna.fbcdn.net
 instagram.fixc1-4.fna.fbcdn.net
 instagram.fixc1-6.fna.fbcdn.net
+instagram.fixc10-1.fna.fbcdn.net
 instagram.fixc3-1.fna.fbcdn.net
 instagram.fixc8-2.fna.fbcdn.net
 instagram.fixe3-1.fna.fbcdn.net
@@ -457,6 +475,7 @@ instagram.flhr1-2.fna.fbcdn.net
 instagram.flhr3-3.fna.fbcdn.net
 instagram.flhr4-3.fna.fbcdn.net
 instagram.flim16-1.fna.fbcdn.net
+instagram.flim6-4.fna.fbcdn.net
 instagram.flin1-1.fna.fbcdn.net
 instagram.flin3-1.fna.fbcdn.net
 instagram.flis12-2.fna.fbcdn.net
@@ -490,6 +509,7 @@ instagram.fmaa1-3.fna.fbcdn.net
 instagram.fmaa12-1.fna.fbcdn.net
 instagram.fmaa2-1.fna.fbcdn.net
 instagram.fmaa2-2.fna.fbcdn.net
+instagram.fmad12-2.fna.fbcdn.net
 instagram.fmad13-1.fna.fbcdn.net
 instagram.fmad19-1.fna.fbcdn.net
 instagram.fmad19-2.fna.fbcdn.net
@@ -507,6 +527,7 @@ instagram.fmct5-1.fna.fbcdn.net
 instagram.fmct6-1.fna.fbcdn.net
 instagram.fmcz1-1.fna.fbcdn.net
 instagram.fmcz13-1.fna.fbcdn.net
+instagram.fmdq3-1.fna.fbcdn.net
 instagram.fmed1-1.fna.fbcdn.net
 instagram.fmed1-2.fna.fbcdn.net
 instagram.fmji2-1.fna.fbcdn.net
@@ -533,6 +554,7 @@ instagram.fnjf16-1.fna.fbcdn.net
 instagram.fnjf2-1.fna.fbcdn.net
 instagram.fnjf4-2.fna.fbcdn.net
 instagram.fnjf6-2.fna.fbcdn.net
+instagram.fnjf7-2.fna.fbcdn.net
 instagram.fnjf9-1.fna.fbcdn.net
 instagram.foax2-1.fna.fbcdn.net
 instagram.fods7-1.fna.fbcdn.net
@@ -590,6 +612,7 @@ instagram.fraj2-1.fna.fbcdn.net
 instagram.fraj3-1.fna.fbcdn.net
 instagram.frak1-1.fna.fbcdn.net
 instagram.frak1-2.fna.fbcdn.net
+instagram.frba1-2.fna.fbcdn.net
 instagram.frba2-2.fna.fbcdn.net
 instagram.frba4-2.fna.fbcdn.net
 instagram.frec24-1.fna.fbcdn.net
@@ -620,6 +643,7 @@ instagram.fscl3-1.fna.fbcdn.net
 instagram.fsco1-1.fna.fbcdn.net
 instagram.fsdu2-1.fna.fbcdn.net
 instagram.fsdv1-2.fna.fbcdn.net
+instagram.fsdv2-1.fna.fbcdn.net
 instagram.fsif1-1.fna.fbcdn.net
 instagram.fsjj2-1.fna.fbcdn.net
 instagram.fsju2-1.fna.fbcdn.net
@@ -655,6 +679,7 @@ instagram.ftas7-1.fna.fbcdn.net
 instagram.ftbs4-2.fna.fbcdn.net
 instagram.ftbs5-2.fna.fbcdn.net
 instagram.ftbs7-1.fna.fbcdn.net
+instagram.ftce2-1.fna.fbcdn.net
 instagram.fteq3-2.fna.fbcdn.net
 instagram.fteq3-5.fna.fbcdn.net
 instagram.ftgd2-1.fna.fbcdn.net
@@ -703,6 +728,7 @@ instagram.fvrn2-2.fna.fbcdn.net
 instagram.fwaw3-1.fna.fbcdn.net
 instagram.fwaw7-1.fna.fbcdn.net
 instagram.fwaw8-1.fna.fbcdn.net
+instagram.fxry1-2.fna.fbcdn.net
 instagram.fybz2-1.fna.fbcdn.net
 instagram.fybz2-2.fna.fbcdn.net
 instagram.fyei1-1.fna.fbcdn.net
@@ -777,6 +803,7 @@ video-amt2-1.xx.fbcdn.net
 video-arn2-1.xx.fbcdn.net
 video-arn2-2.xx.fbcdn.net
 video-cdg2-1.xx.fbcdn.net
+video-cdt1-1.xx.fbcdn.net
 video-frt3-1.xx.fbcdn.net
 video-frt3-2.xx.fbcdn.net
 video-frx5-1.xx.fbcdn.net

@@ -140,6 +140,7 @@ venus.web.telegram.org
 venus.web.telegram.org.lan
 vesta-1.web.telegram.org
 w380accce1-gm2dsnjtgy4dcmby.snr.whatsapp.net
+w7ba864c31-giytgmjwhaydonb.snr.whatsapp.net
 w804a1dcf1-gi4doobwgm3tqmzv.snr.whatsapp.net
 web.telegram.org
 web.telegram.org.lan
