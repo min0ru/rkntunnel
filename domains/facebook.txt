@@ -128,6 +128,7 @@ instagram.fbeg3-2.fna.fbcdn.net
 instagram.fbeg5-1.fna.fbcdn.net
 instagram.fbeg6-1.fna.fbcdn.net
 instagram.fbeg9-1.fna.fbcdn.net
+instagram.fbel3-1.fna.fbcdn.net
 instagram.fbey14-1.fna.fbcdn.net
 instagram.fbey15-1.fna.fbcdn.net
 instagram.fbey9-1.fna.fbcdn.net
@@ -775,6 +776,7 @@ scontent-prg1-1.xx.fbcdn.net
 scontent-sof1-2.xx.fbcdn.net
 scontent-waw1-1.xx.fbcdn.net
 scontent.fbeg10-1.fna.fbcdn.net
+scontent.fdac24-1.fna.fbcdn.net
 scontent.fhan3-4.fna.fbcdn.net
 scontent.fhel3-1.fna.fbcdn.net
 scontent.fhel5-1.fna.fbcdn.net

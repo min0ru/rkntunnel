@@ -20,6 +20,7 @@ s8.pluralsight.com
 s9.pluralsight.com
 splunk.com
 syncfusion.com
+us-central1-rambox-d1326.cloudfunctions.net
 www-api.ibm.com
 www.canva.com
 www.ibm.com

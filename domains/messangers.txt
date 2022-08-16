@@ -154,7 +154,9 @@ www.proekt.media
 z.cdn.adtarget.me
 z.cdn.adtarget.me.lan
 zws1-1.web.telegram.org
+zws1.web.telegram.org
 zws2-1.web.telegram.org
 zws2.web.telegram.org
 zws4-1.web.telegram.org
+zws4.web.telegram.org
 zws5-1.web.telegram.org
