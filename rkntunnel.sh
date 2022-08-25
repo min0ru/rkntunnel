@@ -20,44 +20,59 @@ echo "Downloading domain list"
 echo "Downloading tor enter points list"
 wget https://check.torproject.org/torbulkexitlist -q -O /tmp/tor-ips.txt
 
+rm /tmp/tmp_results_buffer.txt
+rm /tmp/final_ip_list.txt
+
 echo "Resolving custom domains"
-cat domains/* | xargs -P16 dig +short | sort -u \
-    | xargs -P16 dig +short | sort -u \
-    | xargs -P16 dig +short | sort -u \
-    | xargs -P16 dig +short | sort -u \
-    | xargs -P16 dig +short | sort -u \
-    | xargs -P16 dig +short | sort -u \
-    > /tmp/custom-ips.txt
+cat domains/* | xargs -P16 dig +short | sort -u > /tmp/tmp_results_buffer.txt
+cat /tmp/tmp_results_buffer.txt | grep -E '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' >> /tmp/final_ip_list.txt
+cat /tmp/tmp_results_buffer.txt | grep -E -v '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' > /tmp/tmp_results_buffer.txt
+for i in {1..10}
+do
+    echo "Iteration $i"
+    cat /tmp/tmp_results_buffer.txt | xargs -P16 dig +short | sort -u > /tmp/tmp_results_buffer.txt
+    cat /tmp/tmp_results_buffer.txt | grep -E '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' >> /tmp/final_ip_list.txt
+    cat /tmp/tmp_results_buffer.txt | grep -E -v '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' > /tmp/tmp_results_buffer.txt
+done
 
 echo "Resolving custom domains second time with google DNS"
-cat domains/* | xargs -P16 dig @8.8.8.8 +short | sort -u \
-    | xargs -P16 dig @8.8.8.8 +short | sort -u \
-    | xargs -P16 dig @8.8.8.8 +short | sort -u \
-    | xargs -P16 dig @8.8.8.8 +short | sort -u \
-    | xargs -P16 dig @8.8.8.8 +short | sort -u \
-    | xargs -P16 dig @8.8.8.8 +short | sort -u \
-    >> /tmp/custom-ips.txt
+cat domains/* | xargs -P16 dig @8.8.8.8 +short | sort -u > /tmp/tmp_results_buffer.txt
+cat /tmp/tmp_results_buffer.txt | grep -E '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' >> /tmp/final_ip_list.txt
+cat /tmp/tmp_results_buffer.txt | grep -E -v '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' > /tmp/tmp_results_buffer.txt
+for i in {1..10}
+do
+    echo "Iteration $i"
+    cat /tmp/tmp_results_buffer.txt | xargs -P16 dig @8.8.8.8 +short | sort -u > /tmp/tmp_results_buffer.txt
+    cat /tmp/tmp_results_buffer.txt | grep -E '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' >> /tmp/final_ip_list.txt
+    cat /tmp/tmp_results_buffer.txt | grep -E -v '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' > /tmp/tmp_results_buffer.txt
+done
 
 echo "Resolving custom domains second time with cloudflare DNS"
-cat domains/* | xargs -P16 dig @1.1.1.1 +short | sort -u \
-    | xargs -P16 dig @1.1.1.1 +short | sort -u \
-    | xargs -P16 dig @1.1.1.1 +short | sort -u \
-    | xargs -P16 dig @1.1.1.1 +short | sort -u \
-    | xargs -P16 dig @1.1.1.1 +short | sort -u \
-    | xargs -P16 dig @1.1.1.1 +short | sort -u \
-    >> /tmp/custom-ips.txt
+cat domains/* | xargs -P16 dig @1.1.1.1 +short | sort -u > /tmp/tmp_results_buffer.txt
+cat /tmp/tmp_results_buffer.txt | grep -E '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' >> /tmp/final_ip_list.txt
+cat /tmp/tmp_results_buffer.txt | grep -E -v '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' > /tmp/tmp_results_buffer.txt
+for i in {1..10}
+do
+    echo "Iteration $i"
+    cat /tmp/tmp_results_buffer.txt | xargs -P16 dig @1.1.1.1 +short | sort -u > /tmp/tmp_results_buffer.txt
+    cat /tmp/tmp_results_buffer.txt | grep -E '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' >> /tmp/final_ip_list.txt
+    cat /tmp/tmp_results_buffer.txt | grep -E -v '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' > /tmp/tmp_results_buffer.txt
+done
 
 echo "Resolving custom domains third time with yandex DNS"
-cat domains/* | xargs -P16 dig @77.88.8.1 +short | sort -u \
-    | xargs -P16 dig @77.88.8.1 +short | sort -u \
-    | xargs -P16 dig @77.88.8.1 +short | sort -u \
-    | xargs -P16 dig @77.88.8.1 +short | sort -u \
-    | xargs -P16 dig @77.88.8.1 +short | sort -u \
-    | xargs -P16 dig @77.88.8.1 +short | sort -u \
-    >> /tmp/custom-ips.txt
+cat domains/* | xargs -P16 dig @77.88.8.1 +short | sort -u > /tmp/tmp_results_buffer.txt
+cat /tmp/tmp_results_buffer.txt | grep -E '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' >> /tmp/final_ip_list.txt
+cat /tmp/tmp_results_buffer.txt | grep -E -v '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' > /tmp/tmp_results_buffer.txt
+for i in {1..10}
+do
+    echo "Iteration $i"
+    cat /tmp/tmp_results_buffer.txt | xargs -P16 dig @77.88.8.1 +short | sort -u > /tmp/tmp_results_buffer.txt
+    cat /tmp/tmp_results_buffer.txt | grep -E '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' >> /tmp/final_ip_list.txt
+    cat /tmp/tmp_results_buffer.txt | grep -E -v '[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}' > /tmp/tmp_results_buffer.txt
+done
 
-echo "Ckleaning custom ips from duplicates"
-sort -u /tmp/custom-ips.txt -o /tmp/custom-ips.txt
+echo "Sorting duplicates in custom ips"
+sort -u /tmp/final_ip_list.txt -o /tmp/custom-ips.txt
 
 echo "Creating combined ip list"
 #cat /tmp/rublacklist.txt /tmp/zapret.txt /tmp/tor-ips.txt /tmp/custom-ips.txt | sed '/^[[:space:]]*$/d' | sort -u | sed 's/^/add vpn /' >> /tmp/vpn.ipset
