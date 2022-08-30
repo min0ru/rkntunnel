@@ -108,6 +108,7 @@ secure-content.meetupstatic.com
 shop.diletant.media
 signal-luke.teleport.media
 signal-prod-signal-prod-rel-euw-signalr-primary-3.service.signalr.net
+signal-yod.teleport.media
 signal.org
 signalayer.com
 signaler-pa.clients6.google.com
@@ -123,6 +124,7 @@ stat.media.lan
 stat.teleport.media
 stat.teleport.media.lan
 static.whatsapp.net
+static.whatsapp.net.lan
 storage.signal.org
 support.meduza.io
 support.memorystock.com

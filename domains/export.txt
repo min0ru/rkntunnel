@@ -1,6 +1,7 @@
 app.pluralsight.com
 canva.com
 cloud.ibm.com
+dou.ua
 embargo.splunk.com
 ibm.com
 keyserver.ubuntu.com

@@ -7,9 +7,11 @@ blogspot.l.googleusercontent.com
 books.googleusercontent.com
 ccp-lh.googleusercontent.com
 ci3.googleusercontent.com
+ci3.googleusercontent.com.lan
 ci4.googleusercontent.com
 ci5.googleusercontent.com
 ci6.googleusercontent.com
+ci6.googleusercontent.com.lan
 clients2.googleusercontent.com
 doc-04-7g-docs.googleusercontent.com
 doc-04-c8-docs.googleusercontent.com
@@ -47,6 +49,7 @@ lh3.googleusercontent.com
 lh3.googleusercontent.com.lan
 lh4.ggpht.com
 lh4.googleusercontent.com
+lh4.googleusercontent.com.lan
 lh5.ggpht.com
 lh5.googleusercontent.com
 lh6.ggpht.com
