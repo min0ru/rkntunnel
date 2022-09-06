@@ -12,6 +12,7 @@ at.alicdn.com.danuoyi.alicdn.com
 cbu01.alicdn.com
 cn.alicdn.com
 dc.ads.linkedin.com
+dc.ads.linkedin.com.lan
 dms.licdn.com
 dorangesource.alicdn.com
 dorangesource.alicdn.com.danuoyi.tbcache.com
@@ -27,6 +28,7 @@ i.alicdn.com
 img.alicdn.com
 img.alicdn.com.danuoyi.alicdn.com
 is.alicdn.com
+lang.alicdn.com
 laz-g-cdn.alicdn.com
 licdn.com
 linkedin.co
@@ -50,6 +52,7 @@ rum14.perf.linkedin.com
 rum18.perf.linkedin.com
 rum8.perf.linkedin.com
 s.alicdn.com
+sc02.alicdn.com
 sc04.alicdn.com
 snap.licdn.com
 static-akam.licdn.com
@@ -57,6 +60,8 @@ static-ecst.licdn.com
 static-exp1.licdn.com
 static-exp2.licdn.com
 static.licdn.com
+tce.alicdn.com
+tce.alicdn.com.lan
 tr.linkedin.com
 u.alicdn.com
 wvcfg.alicdn.com

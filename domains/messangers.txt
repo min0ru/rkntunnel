@@ -75,6 +75,7 @@ kws4-1.web.telegram.org
 kws4-1.web.telegram.org.lan
 kws4.web.telegram.org
 kws5-1.web.telegram.org
+kws5.web.telegram.org
 livechat.messagebird.com
 mainnet.mewwallet.dev
 media-ams2-1.cdn.whatsapp.net
@@ -103,6 +104,7 @@ pp.signalayer.com
 pps.whatsapp.net
 pps.whatsapp.net.lan
 proekt.media
+redirect.media.tumblr.com
 scontent.whatsapp.net
 secure-content.meetupstatic.com
 shop.diletant.media
