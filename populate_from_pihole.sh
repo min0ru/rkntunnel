@@ -24,9 +24,17 @@ echo "select domain from domain_by_id where domain like '%facebook%'" | sqlite3 
 echo "select domain from domain_by_id where domain like '%fbcdn%'" | sqlite3 ~/pihole/etc-pihole/pihole-FTL.db >> domains/facebook.txt
 
 # youtube
+echo "select domain from domain_by_id where domain like '%youtube%'" | sqlite3 ~/pihole/etc-pihole/pihole-FTL.db >> domains/youtube.txt
 echo "select domain from domain_by_id where domain like '%ggpht%'" | sqlite3 ~/pihole/etc-pihole/pihole-FTL.db >> domains/youtube.txt
 echo "select domain from domain_by_id where domain like '%googleusercontent.com%'" | sqlite3 ~/pihole/etc-pihole/pihole-FTL.db >> domains/youtube.txt
 echo "select domain from domain_by_id where domain like '%ytimg.com%'" | sqlite3 ~/pihole/etc-pihole/pihole-FTL.db >> domains/youtube.txt
+
+# twitter
+echo "select domain from domain_by_id where domain like '%twitter%'" | sqlite3 ~/pihole/etc-pihole/pihole-FTL.db >> domains/twitter.txt
+echo "select domain from domain_by_id where domain like '%twimg%'" | sqlite3 ~/pihole/etc-pihole/pihole-FTL.db >> domains/twitter.txt
+
+# 2ch
+echo "select domain from domain_by_id where domain like '%2ch%'" | sqlite3 ~/pihole/etc-pihole/pihole-FTL.db >> domains/2ch.txt
 
 # amazon cloudfront
 echo "select domain from domain_by_id where domain like '%cloudfront.net%'" | sqlite3 ~/pihole/etc-pihole/pihole-FTL.db >> domains/cloudfront.txt
