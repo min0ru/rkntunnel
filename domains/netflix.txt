@@ -236,6 +236,7 @@ nrdp.nccp.netflix.com
 nrdp.prod.cloud.netflix.com
 nrdp.prod.ftl.netflix.com
 nrdp52-appboot.netflix.com
+nrdp60-appboot.netflix.com
 oca-api.netflix.com
 preapp.prod.partner.netflix.net
 probe-cell4.prod.ftl.netflix.com

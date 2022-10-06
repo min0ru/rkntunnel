@@ -120,6 +120,7 @@ signaler-pa.youtube.com
 signalr.net
 sonar-ams.cdn.whatsapp.net
 sonar-amt.cdn.whatsapp.net
+sonar-frx.cdn.whatsapp.net
 stat.media
 stat.media.getcacheddhcpresultsforcurrentconfig
 stat.media.lan
@@ -154,6 +155,7 @@ web.whatsapp.com.lan
 weea4eaeb1-gmydgmrvhaztknbr.snr.whatsapp.net
 whatsapp.com
 whatsapp.net
+whatsapp.net.lan
 widget.me-talk.ru
 www.proekt.media
 z.cdn.adtarget.me
@@ -163,6 +165,7 @@ zws1.web.telegram.org
 zws2-1.web.telegram.org
 zws2.web.telegram.org
 zws2.web.telegram.org.lan
+zws3.web.telegram.org
 zws4-1.web.telegram.org
 zws4.web.telegram.org
 zws5-1.web.telegram.org

@@ -6,6 +6,8 @@ ae04.alicdn.com
 aeis.alicdn.com
 aeu.alicdn.com
 alicdn.com
+alinw.alicdn.com
+alinw.alicdn.com.danuoyi.tbcache.com
 assets.alicdn.com
 at.alicdn.com
 at.alicdn.com.danuoyi.alicdn.com
@@ -31,6 +33,7 @@ is.alicdn.com
 lang.alicdn.com
 laz-g-cdn.alicdn.com
 licdn.com
+licdn.com.lan
 linkedin.co
 linkedin.com
 linkedinmobileapp.com
@@ -38,6 +41,8 @@ media-exp1.licdn.com
 media-exp2.licdn.com
 media.licdn.com
 mix.linkedin.com
+oneconsole.alicdn.com
+oneconsole.alicdn.com.w.cdngslb.com
 ossgw.alicdn.com
 ossgw.alicdn.com.danuoyi.alicdn.com
 platform.linkedin.com
@@ -55,6 +60,7 @@ s.alicdn.com
 sc02.alicdn.com
 sc04.alicdn.com
 snap.licdn.com
+snap.licdn.com.lan
 static-akam.licdn.com
 static-ecst.licdn.com
 static-exp1.licdn.com
@@ -64,6 +70,8 @@ tce.alicdn.com
 tce.alicdn.com.lan
 tr.linkedin.com
 u.alicdn.com
+ucc.alicdn.com
+ucc.alicdn.com.danuoyi.tbcache.com
 wvcfg.alicdn.com
 wvcfg.alicdn.com.danuoyi.tbcache.com
 www-linkedin-com.l-0005.l-msedge.net

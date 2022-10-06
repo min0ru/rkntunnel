@@ -1,4 +1,5 @@
 app.pluralsight.com
+atlassian.com
 canva.com
 cloud.ibm.com
 dou.ua
@@ -23,6 +24,7 @@ splunk.com
 syncfusion.com
 us-central1-rambox-d1326.cloudfunctions.net
 www-api.ibm.com
+www.atlassian.com
 www.canva.com
 www.ibm.com
 www.msdmanuals.com
@@ -30,3 +32,5 @@ www.pluralsight.com
 www.refactoring.guru
 www.splunk.com
 www.syncfusion.com
+dell.com
+www.dell.com
