@@ -39,6 +39,10 @@ echo "select domain from domain_by_id where domain like '%2ch%'" | sqlite3 ~/pih
 # amazon cloudfront
 echo "select domain from domain_by_id where domain like '%cloudfront.net%'" | sqlite3 ~/pihole/etc-pihole/pihole-FTL.db >> domains/cloudfront.txt
 
+# airbnb 
+echo "select domain from domain_by_id where domain like '%airbnb%'" | sqlite3 ~/pihole/etc-pihole/pihole-FTL.db >> domains/airbnb.txt
+
+
 for filename in domains/*; do
     echo "Sorting and cleaning dupes in $filename"
     sort -u -o $filename $filename
