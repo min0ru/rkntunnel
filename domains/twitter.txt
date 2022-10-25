@@ -27,6 +27,7 @@ api-26-0-0-26-4-3.twitter.com
 api-26-0-0-26-5-1.twitter.com
 api-26-0-0-26-5-2.twitter.com
 api-26-0-0-26-6-1.twitter.com
+api-26-0-0-26-6-2.twitter.com
 api-26-0-0-26-6-3.twitter.com
 api-26-0-0-26-6-4.twitter.com
 api-26-0-0-c.twitter.com
@@ -35,6 +36,7 @@ api-28-0-0.twitter.com
 api-3-0-0.twitter.com
 api-30-0-0.twitter.com
 api-31-0-0.twitter.com
+api-32-0-0-32-0-1.twitter.com
 api-32-0-0-32-4-1.twitter.com
 api-32-0-0-32-4-2.twitter.com
 api-32-0-0-32-4-3.twitter.com
@@ -46,6 +48,7 @@ api-32-0-0-32-6-2.twitter.com
 api-32-0-0-32-6-3.twitter.com
 api-32-0-0-32-6-4.twitter.com
 api-32-0-0-c.twitter.com
+api-32-0-0.twitter.com
 api-33-0-0.twitter.com
 api-34-0-0.twitter.com
 api-36-0-0.twitter.com
@@ -59,8 +62,10 @@ api-43-0-0.twitter.com
 api-44-0-0.twitter.com
 api-45-0-0.twitter.com
 api-46-0-0.twitter.com
+api-c.twitter.com
 api-o.twitter.com
 api-stream.twitter.com
+api-stream.twitter.com.lan
 api.twitter.com
 caps.twitter.com
 cdn.api.twitter.com
@@ -81,6 +86,7 @@ probe.twitter.com
 s.twitter.com
 static.ads-twitter.com
 static.ads-twitter.com.lan
+status.twitterstat.us
 syndication.twitter.com
 syndication.twitter.com.lan
 ton.twimg.com
@@ -91,6 +97,7 @@ twimg.twitter.map.fastly.net
 twimgs.com
 twitter.com
 twitter.com.lan
+twitterstat.us
 video.twimg.com
 video.twitter.map.fastly.net
 widgets.twimg.com

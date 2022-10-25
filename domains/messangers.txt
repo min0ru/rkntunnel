@@ -1,5 +1,6 @@
 46-105-202-39.any.cdn.anycast.me
 adtarget.me
+adtarget.me.lan
 anycast.me
 api.backup.signal.org
 api.onesignal.com
@@ -8,6 +9,7 @@ api.whatsapp.com
 app.hoversignal.com
 backup.signal.org
 cdn-client.medium.com
+cdn.adtarget.me.lan
 cdn.onesignal.com
 cdn.onesignal.com.lan
 cdn.signalayer.com
@@ -24,6 +26,7 @@ championat.media.eagleplatform.com
 chat.cdn.whatsapp.net
 chat.signal.org
 chocotelegram.ru
+client.messaging.adobe.com
 core.telegram.org
 crashlogs.whatsapp.net
 ct.mediaboom.site
@@ -59,6 +62,7 @@ g.whatsapp.net
 g.whatsapp.net.lan
 gateway.teleport.media
 getdesktop.telegram.org
+graph.whatsapp.com
 graph.whatsapp.net
 gtm-dus-idam-metrosystems-net.metro.info
 gtorrent.me
@@ -78,6 +82,7 @@ kws5-1.web.telegram.org
 kws5.web.telegram.org
 livechat.messagebird.com
 mainnet.mewwallet.dev
+matt.mercadolivre.com.br
 media-ams2-1.cdn.whatsapp.net
 media-ams4-1.cdn.whatsapp.net
 media-amt2-1.cdn.whatsapp.net
@@ -92,6 +97,10 @@ media-frx5-1.cdn.whatsapp.net
 media-frx5-2.cdn.whatsapp.net
 media-hel3-1.cdn.whatsapp.net
 media-prg1-1.cdn.whatsapp.net
+media-sin6-1.cdn.whatsapp.net
+media-sin6-2.cdn.whatsapp.net
+media-sin6-4.cdn.whatsapp.net
+media-vie1-1.cdn.whatsapp.net
 media.fbeg10-1.fna.whatsapp.net
 messenger.telegram.org
 mmg.whatsapp.net
@@ -109,6 +118,7 @@ scontent.whatsapp.net
 secure-content.meetupstatic.com
 shop.diletant.media
 signal-luke.teleport.media
+signal-obi.teleport.media
 signal-prod-signal-prod-rel-euw-signalr-primary-3.service.signalr.net
 signal-yod.teleport.media
 signal.org
@@ -117,10 +127,13 @@ signaler-pa.clients6.google.com
 signaler-pa.clients6.google.com.lan
 signaler-pa.googleapis.com
 signaler-pa.youtube.com
+signalr.digiseller.ru
 signalr.net
+signals.aimtell.com
 sonar-ams.cdn.whatsapp.net
 sonar-amt.cdn.whatsapp.net
 sonar-frx.cdn.whatsapp.net
+sonar-vie.cdn.whatsapp.net
 stat.media
 stat.media.getcacheddhcpresultsforcurrentconfig
 stat.media.lan
@@ -158,6 +171,7 @@ whatsapp.net
 whatsapp.net.lan
 widget.me-talk.ru
 www.proekt.media
+www.whatsapp.com
 z.cdn.adtarget.me
 z.cdn.adtarget.me.lan
 zws1-1.web.telegram.org
@@ -169,3 +183,4 @@ zws3.web.telegram.org
 zws4-1.web.telegram.org
 zws4.web.telegram.org
 zws5-1.web.telegram.org
+zws5.web.telegram.org

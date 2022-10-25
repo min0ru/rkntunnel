@@ -1,3 +1,4 @@
+ads.linkedin.com
 ae-cn.alicdn.com
 ae-cn.alicdn.com.danuoyi.tbcache.com
 ae01.alicdn.com
@@ -8,6 +9,7 @@ aeu.alicdn.com
 alicdn.com
 alinw.alicdn.com
 alinw.alicdn.com.danuoyi.tbcache.com
+analytics.pointdrive.linkedin.com
 assets.alicdn.com
 at.alicdn.com
 at.alicdn.com.danuoyi.alicdn.com
@@ -34,6 +36,7 @@ lang.alicdn.com
 laz-g-cdn.alicdn.com
 licdn.com
 licdn.com.lan
+linkedcdn.org
 linkedin.co
 linkedin.com
 linkedinmobileapp.com

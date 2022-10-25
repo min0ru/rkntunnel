@@ -1,0 +1,16 @@
+airbnb-api.arkoselabs.com
+airbnb-api.arkoselabs.com.cdn.cloudflare.net
+airbnb.com
+airbnb.ru
+airbnb.xn--q1aqj
+airbnbmail.com
+airbnbpayments.com
+email.airbnbmail.com
+iframes.airbnbpayments.com
+ru.airbnb.com
+s20150428._domainkey.email.airbnb.com
+ws.airbnb.com
+www.airbnb.com
+www.airbnb.ru
+www.airbnb.xn--q1aqj
+www.airbnb.xn--q1aqj.lan
